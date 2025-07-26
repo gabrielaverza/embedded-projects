@@ -74,6 +74,10 @@ O sistema é composto por dois microcontroladores que se comunicam via UART:
 
 > ![PIC DIP Switch Config](assets/pic.png)
 
+### 🔌 Esquema de ligação da comunicação UART:
+
+> ![UART Schematic](assets/uart.png)
+
 ---
 
 # English Ver. - LightMinder
@@ -151,3 +155,7 @@ The system is built with two microcontrollers that communicate via UART:
 ### 🧭 PIC Kit Switch Configuration for Used Components:
 
 > ![PIC DIP Switch Config](assets/pic.png)
+
+### 🔌 UART Communication Wiring Diagram:
+
+> ![UART Schematic](assets/uart.png)
