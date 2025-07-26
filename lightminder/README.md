@@ -80,6 +80,8 @@ Embedded systems project developed to monitor inefficient lighting usage in indo
 
 ---
 
+# English Ver. - LightMinder
+
 ## ⚙️ System Overview
 
 The system is built with two microcontrollers that communicate via UART:
