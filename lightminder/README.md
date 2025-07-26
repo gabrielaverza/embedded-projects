@@ -76,11 +76,11 @@ O sistema é composto por dois microcontroladores que se comunicam via UART:
 
 ---
 
+# English Ver. - LightMinder
+
 Embedded systems project developed to monitor inefficient lighting usage in indoor environments. The solution detects when there is **a light on with no one present** and emits visual and sound alerts to encourage turning it off, promoting energy savings.
 
 ---
-
-# English Ver. - LightMinder
 
 ## ⚙️ System Overview
 
